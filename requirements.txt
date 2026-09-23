@@ -1,0 +1,11 @@
+torch>=2.1.0
+torchvision>=0.16.0
+numpy
+opencv-python
+Pillow
+streamlit>=1.61.0
+starlette>=0.46.0,<1.0
+moviepy
+imageio
+imageio-ffmpeg
+gTTS
